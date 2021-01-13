@@ -1,0 +1,13 @@
+It was republic day, so there were sweets being distributed in your school. But since the number of sweets were less, the principal decided to keep a puzzle, so that whoever solves the puzzle gets the sweet. The puzzle goes as follows:
+Given an array arr[] of N integers, the task is to find the maximum sum of the array that can be obtained by doing the 1st complement of any subarray and adding length of that sub array to the total sum, of the given array at most once.
+
+Input : 1st line has T, the number of test cases
+For every test case, the 1st line has N the size of the array and the next line has N integers separated by a space.
+
+Output : For each test case print the maximum sum on a new line.
+
+Input: arr[] = {-2, 3, -1, -4, -2} 
+Output: 8
+
+Input: arr[] = {1, 2, -10, 2, -20}
+Output: 31
